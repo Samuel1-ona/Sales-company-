@@ -1,0 +1,370 @@
+Order ID,Order Date,Customer ID,Customer Name,City,State,Country/Region,Salesperson,Region,Shipped Date,Month,Quarter,Shipper Name,Ship City,Ship State,Ship ZIP/Postal Code,Ship Country/Region,Payment Type,Product Name,Category, Unit Price ,Quantity,  Revenue  , Shipping Fee 
+8008,1/27/2019,27,Cust AA,MULTAN,MN,PK,Salim Kanchwala,West,1/29/2019,Jan,Q1,Shipping Company B,MULTAN,MN,90900,PK,Check,Sauce,Beverages,14,49, 686 ,66.5
+8008,1/27/2019,27,Cust AA,MULTAN,MN,PK,Salim Kanchwala,West,1/29/2019,Jan,Q1,Shipping Company B,MULTAN,MN,90900,PK,Check,Dried Plums,Dried Fruit & Nuts,3.5,47, 165 ,16.6
+8003,1/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,1/6/2019,Jan,Q1,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Pears,Dried Fruit & Nuts,30,69," 2,000 ",198.7
+8004,1/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,1/6/2019,Jan,Q1,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Apples,Dried Fruit & Nuts,53,89," 4,717 ",448.1
+8005,1/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,1/6/2019,Jan,Q1,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,11, 39 ,3.7
+8006,1/12/2019,12,Cust L,MULTAN,MN,PK,Salim Kanchwala,West,1/14/2019,Jan,Q1,Shipping Company B,MULTAN,MN,90900,PK,Credit Card,Chai,Beverages,18,81," 1,458 ",141.4
+8007,1/12/2019,12,Cust L,MULTAN,MN,PK,Salim Kanchwala,West,1/14/2019,Jan,Q1,Shipping Company B,MULTAN,MN,90900,PK,Credit Card,Coffee,Beverages,46,44," 2,024 ",198.4
+8008,1/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,1/10/2019,Jan,Q1,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,38, 350 ,36
+8009,1/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,1/6/2019,Jan,Q1,Shipping Company C,BAHAWALPUR,BR,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,88, 810 ,79.3
+8080,1/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,1/31/2019,Jan,Q1,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Chocolate,Candy,12.8,94," 1,199 ",122.3
+8088,1/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,1/5/2019,Jan,Q1,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Clam Chowder,Soups,9.7,91, 878 ,92.2
+8088,1/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,1/8/2019,Jan,Q1,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Curry Sauce,Sauces,40,32," 1,280 ",133.1
+8083,1/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,1/30/2019,Jan,Q1,Shipping Company C,JHELUM,JM,90900,PK,Check,Coffee,Beverages,46,55," 2,530 ",253
+8084,1/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,1/10/2019,Jan,Q1,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,47, 599 ,61.7
+8085,1/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,1/12/2019,Jan,Q1,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Green Tea,Beverages,3,90, 269 ,27.7
+8086,1/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,1/12/2019,Jan,Q1,Shipping Company B,KARACHI NORTH,KI,90900,PK,Credit Card,Coffee,Beverages,46,24," 1,104 ",110.4
+8087,1/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,1/12/2019,Jan,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,34, 850 ,80.8
+8088,1/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,1/12/2019,Jan,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Cajun Seasoning,Condiments,22,17, 374 ,35.9
+8089,1/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,1/12/2019,Jan,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,44, 405 ,42.1
+8080,1/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,1/12/2019,Jan,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,81, 284 ,27.5
+8088,1/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,1/12/2019,Jan,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,49, 147 ,15.1
+8088,1/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,1/12/2019,Jan,Q1,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,42, 756 ,75.6
+8083,1/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,1/12/2019,Jan,Q1,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Coffee,Beverages,46,58," 2,668 ",269.5
+8084,1/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,1/12/2019,Jan,Q1,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Green Tea,Beverages,3,67, 200 ,20
+8085,1/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,1/30/2019,Jan,Q1,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,100, 965 ,93.6
+8086,1/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,1/30/2019,Jan,Q1,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,63," 1,159 ",114.8
+8087,1/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,1/11/2019,Jan,Q1,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,57," 1,112 ",110
+8088,1/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,1/11/2019,Jan,Q1,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,81," 2,819 ",296
+8089,1/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,1/8/2019,Jan,Q1,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,71, 994 ,95.4
+8030,2/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,2/10/2019,Feb,Q1,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,32," 1,280 ",129.3
+8038,2/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,2/5/2019,Feb,Q1,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,63, 630 ,65.5
+8038,2/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,2/5/2019,Feb,Q1,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,30," 1,200 ",120
+8033,2/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,2/8/2019,Feb,Q1,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Curry Sauce,Sauces,40,30," 1,200 ",43
+8034,2/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,3/2/2019,Mar,Q1,Shipping Company C,JHELUM,JM,90900,PK,Check,Curry Sauce,Sauces,40,30," 1,200 ",31
+8035,2/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,2/10/2019,Feb,Q1,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,30," 1,200 ",46
+8036,2/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,2/12/2019,Feb,Q1,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,47, 470 ,48.9
+8038,2/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,2/12/2019,Feb,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,49, 172 ,16.5
+8039,2/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,2/12/2019,Feb,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,72," 2,880 ",285.1
+8040,2/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,2/12/2019,Feb,Q1,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,13, 239 ,23.7
+8048,2/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,3/2/2019,Mar,Q1,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,32," 1,472 ",148.7
+8048,2/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,2/11/2019,Feb,Q1,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Clam Chowder,Soups,9.7,27, 261 ,24.8
+8043,2/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,2/8/2019,Feb,Q1,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Chocolate,Candy,12.8,71, 905 ,91.4
+8044,2/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,2/10/2019,Feb,Q1,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,13, 166 ,15.8
+8045,2/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,2/27/2019,Feb,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Cajun Seasoning,Condiments,22,98," 2,156 ",204.8
+8046,2/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,2/28/2019,Feb,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,21, 525 ,53.6
+8047,3/1/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,3/3/2019,Mar,Q1,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Fruit Cocktail,Fruit & Veg,39,26," 1,014 ",106.5
+8048,2/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,2/8/2019,Feb,Q1,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Dried Pears,Dried Fruit & Nuts,30,96," 2,880 ",296.6
+8049,2/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,2/8/2019,Feb,Q1,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Dried Apples,Dried Fruit & Nuts,53,16, 848 ,88.2
+8050,2/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,2/8/2019,Feb,Q1,Shipping Company C,BAHAWALPUR,BR,90900,PK,Check,Gnocchi,Pasta,38,96," 3,648 ",346.6
+8058,2/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,2/8/2019,Feb,Q1,Shipping Company C,HYDERABAD,HD,90900,PK,Check,Green Tea,Beverages,3,75, 224 ,23.1
+8058,3/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,3/11/2019,Mar,Q1,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,55," 1,073 ",108.3
+8053,3/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,3/11/2019,Mar,Q1,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,11, 383 ,36.8
+8054,3/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,3/8/2019,Mar,Q1,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,53, 742 ,72
+8055,3/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,3/10/2019,Mar,Q1,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,85," 3,400 ",357
+8056,3/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,3/10/2019,Mar,Q1,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,97, 892 ,91
+8057,3/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,3/27/2019,Mar,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,46, 460 ,46.5
+8058,3/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,3/28/2019,Mar,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,97," 2,071 ",196.7
+8059,3/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,3/28/2019,Mar,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,97, 936 ,95.5
+8060,3/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,3/28/2019,Mar,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,65," 1,196 ",123.2
+8068,3/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,3/31/2019,Mar,Q1,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,72," 1,008 ",100.8
+8068,3/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,3/8/2019,Mar,Q1,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,16, 204 ,20.2
+8064,3/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,3/6/2019,Mar,Q1,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,77," 6,237 ",642.4
+8065,3/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,3/6/2019,Mar,Q1,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,37, 259 ,24.6
+8067,3/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,3/10/2019,Mar,Q1,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,63," 2,192 ",217.1
+8070,3/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,3/5/2019,Mar,Q1,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,48, 480 ,48
+8078,3/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,3/5/2019,Mar,Q1,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,71," 2,840 ",295.4
+8075,3/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,3/12/2019,Mar,Q1,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,55, 550 ,55
+8077,3/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,3/12/2019,Mar,Q1,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,21, 74 ,7.4
+8078,3/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,3/12/2019,Mar,Q1,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,67," 2,680 ",270.7
+8079,3/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,3/12/2019,Mar,Q1,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,75," 1,380 ",138
+8080,3/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,3/30/2019,Mar,Q1,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,17, 782 ,80.6
+8088,4/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,4/6/2019,Apr,Q2,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,48, 168 ,16.3
+8088,4/12/2019,12,Cust L,MULTAN,MN,PK,Salim Kanchwala,West,4/14/2019,Apr,Q2,Shipping Company B,MULTAN,MN,90900,PK,Credit Card,Chai,Beverages,18,74," 1,332 ",137.2
+8083,4/12/2019,12,Cust L,MULTAN,MN,PK,Salim Kanchwala,West,4/14/2019,Apr,Q2,Shipping Company B,MULTAN,MN,90900,PK,Credit Card,Coffee,Beverages,46,96," 4,416 ",428.4
+8084,4/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,4/10/2019,Apr,Q2,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,12, 110 ,11.4
+8085,4/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,4/6/2019,Apr,Q2,Shipping Company C,BAHAWALPUR,BR,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,62, 570 ,58.8
+8086,4/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,5/1/2019,May,Q2,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Chocolate,Candy,12.8,35, 446 ,46
+8087,4/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,4/5/2019,Apr,Q2,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Clam Chowder,Soups,9.7,95, 917 ,91.7
+8088,4/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,4/8/2019,Apr,Q2,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Curry Sauce,Sauces,40,17, 680 ,68.7
+8089,4/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,4/30/2019,Apr,Q2,Shipping Company C,JHELUM,JM,90900,PK,Check,Coffee,Beverages,46,96," 4,416 ",463.7
+8090,4/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,4/10/2019,Apr,Q2,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,83," 1,058 ",102.7
+8098,4/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,4/12/2019,Apr,Q2,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Green Tea,Beverages,3,88, 263 ,26.1
+8098,4/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,4/12/2019,Apr,Q2,Shipping Company B,KARACHI NORTH,KI,90900,PK,Credit Card,Coffee,Beverages,46,59," 2,714 ",285
+8093,4/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,4/12/2019,Apr,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,27, 675 ,68.9
+8094,4/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,4/12/2019,Apr,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Cajun Seasoning,Condiments,22,37, 814 ,85.5
+8095,4/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,4/12/2019,Apr,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,75, 690 ,69
+8096,4/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,4/12/2019,Apr,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,71, 249 ,24.1
+8097,4/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,4/12/2019,Apr,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,88, 263 ,26.1
+8098,4/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,4/12/2019,Apr,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,55, 990 ,97
+8099,5/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,5/31/2019,May,Q2,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Chocolate,Candy,12.8,14, 179 ,17
+8800,5/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,5/5/2019,May,Q2,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Clam Chowder,Soups,9.7,43, 415 ,42.3
+8808,5/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,5/8/2019,May,Q2,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Curry Sauce,Sauces,40,63," 2,520 ",254.5
+8808,5/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,5/30/2019,May,Q2,Shipping Company C,JHELUM,JM,90900,PK,Check,Coffee,Beverages,46,36," 1,656 ",165.6
+8803,5/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,5/10/2019,May,Q2,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,41, 523 ,54.4
+8804,5/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,5/12/2019,May,Q2,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Green Tea,Beverages,3,35, 105 ,10.3
+8805,5/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,5/12/2019,May,Q2,Shipping Company B,KARACHI NORTH,KI,90900,PK,Credit Card,Coffee,Beverages,46,31," 1,426 ",136.9
+8806,5/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,5/12/2019,May,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,52," 1,300 ",123.5
+8807,5/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,5/12/2019,May,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Cajun Seasoning,Condiments,22,30, 660 ,67.3
+8808,5/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,5/12/2019,May,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,41, 377 ,38.5
+8809,5/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,5/12/2019,May,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,44, 154 ,15.3
+8880,5/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,5/12/2019,May,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,77, 230 ,23
+8888,5/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,5/12/2019,May,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,29, 522 ,52.7
+8888,5/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,5/12/2019,May,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Coffee,Beverages,46,77," 3,542 ",368.4
+8883,5/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,5/12/2019,May,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Green Tea,Beverages,3,73, 218 ,21.8
+8884,5/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,5/30/2019,May,Q2,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,74, 714 ,67.8
+8885,5/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,5/30/2019,May,Q2,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,25, 460 ,46.5
+8886,5/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,5/11/2019,May,Q2,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,82," 1,599 ",153.5
+8887,5/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,5/11/2019,May,Q2,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,37," 1,288 ",132.6
+8888,5/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,5/8/2019,May,Q2,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,84," 1,176 ",112.9
+8889,5/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,5/10/2019,May,Q2,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,73," 2,920 ",283.2
+8880,5/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,5/10/2019,May,Q2,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,51, 469 ,44.6
+8888,5/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,5/27/2019,May,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,66, 660 ,68.6
+8888,5/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,5/28/2019,May,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,36, 769 ,74.6
+8883,5/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,5/28/2019,May,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,87, 840 ,87.3
+8884,5/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,5/28/2019,May,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,64," 1,178 ",115.4
+8885,5/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,5/31/2019,May,Q2,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,21, 294 ,30.9
+8886,5/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,5/8/2019,May,Q2,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,19, 242 ,24.5
+8888,5/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,5/6/2019,May,Q2,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,23," 1,863 ",195.6
+8889,5/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,5/6/2019,May,Q2,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,72, 504 ,51.9
+8838,5/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,5/10/2019,May,Q2,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,22, 766 ,75
+8834,5/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,5/5/2019,May,Q2,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,82, 820 ,85.3
+8835,5/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,5/5/2019,May,Q2,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,98," 3,920 ",411.6
+8838,6/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,5/5/2019,May,Q2,Shipping Company B,KARACHI NORTH,KI,90900,PK,Cash,Coffee,Beverages,46,71," 3,266 ",310.3
+8839,6/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/12/2019,Jun,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Boysenberry Spread,"Jams, Preserves",25,40," 1,000 ",105
+8840,6/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/12/2019,Jun,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Cajun Seasoning,Condiments,22,80," 1,760 ",172.5
+8848,6/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/12/2019,Jun,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,38, 350 ,33.2
+8848,6/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/12/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Cash,Dried Plums,Dried Fruit & Nuts,3.5,28, 98 ,10.3
+8843,6/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/12/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Cash,Green Tea,Beverages,3,60, 179 ,17.6
+8844,6/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,6/12/2019,Jun,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Cash,Chai,Beverages,18,33, 594 ,58.2
+8845,6/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,6/12/2019,Jun,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Cash,Coffee,Beverages,46,22," 1,012 ",101.2
+8846,6/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,6/12/2019,Jun,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Cash,Green Tea,Beverages,3,51, 153 ,14.9
+8847,6/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,6/30/2019,Jun,Q2,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,60, 579 ,57.3
+8848,6/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,6/30/2019,Jun,Q2,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,98," 1,803 ",183.9
+8849,6/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,6/11/2019,Jun,Q2,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,27, 527 ,51.1
+8850,6/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,6/11/2019,Jun,Q2,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,88," 3,062 ",303.2
+8858,6/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,6/8/2019,Jun,Q2,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,65, 910 ,95.6
+8858,6/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,6/10/2019,Jun,Q2,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,38," 1,520 ",149
+8853,6/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,6/10/2019,Jun,Q2,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,80, 736 ,70.7
+8854,6/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/27/2019,Jun,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,49, 490 ,47
+8855,6/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/28/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,90," 1,922 ",186.4
+8856,6/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/28/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,60, 579 ,59.6
+8857,6/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/28/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,39, 718 ,71.8
+8858,6/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,7/1/2019,Jul,Q3,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,79," 1,106 ",113.9
+8859,6/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,6/8/2019,Jun,Q2,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,44, 561 ,57.2
+8868,6/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,6/6/2019,Jun,Q2,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,98," 7,938 ",770
+8868,6/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,6/6/2019,Jun,Q2,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,61, 427 ,42.3
+8864,6/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,6/10/2019,Jun,Q2,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,30," 1,044 ",109.6
+8867,6/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,6/5/2019,Jun,Q2,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,24, 240 ,25.2
+8868,6/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,6/5/2019,Jun,Q2,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,28," 1,120 ",109.8
+8878,6/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/12/2019,Jun,Q2,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,74, 740 ,71.8
+8874,6/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/12/2019,Jun,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,90, 315 ,30.2
+8875,6/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/12/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,27," 1,080 ",111.2
+8876,6/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,6/12/2019,Jun,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,71," 1,306 ",137.2
+8877,6/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,6/30/2019,Jun,Q2,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,74," 3,404 ",340.4
+8878,6/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,6/11/2019,Jun,Q2,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Clam Chowder,Soups,9.7,76, 733 ,72.6
+8879,6/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,6/8/2019,Jun,Q2,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Chocolate,Candy,12.8,96," 1,224 ",123.6
+8880,6/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,6/10/2019,Jun,Q2,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,92," 1,173 ",116.1
+8888,6/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,6/27/2019,Jun,Q2,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Cajun Seasoning,Condiments,22,93," 2,046 ",200.5
+8888,6/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,6/28/2019,Jun,Q2,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,18, 450 ,42.8
+8883,6/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,7/1/2019,Jul,Q3,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Fruit Cocktail,Fruit & Veg,39,98," 3,822 ",397.5
+8884,6/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,6/8/2019,Jun,Q2,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Dried Pears,Dried Fruit & Nuts,30,46," 1,380 ",135.2
+8885,6/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,6/8/2019,Jun,Q2,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Dried Apples,Dried Fruit & Nuts,53,14, 742 ,74.2
+8886,6/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,6/8/2019,Jun,Q2,Shipping Company C,BAHAWALPUR,BR,90900,PK,Check,Gnocchi,Pasta,38,85," 3,230 ",319.8
+8887,6/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,6/8/2019,Jun,Q2,Shipping Company C,HYDERABAD,HD,90900,PK,Check,Green Tea,Beverages,3,88, 263 ,25.5
+8888,7/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,6/8/2019,Jun,Q2,Shipping Company C,LAHORE EAST,LE,90900,PK,Check,Green Tea,Beverages,3,81, 242 ,24
+8889,7/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,7/30/2019,Jul,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,33, 319 ,30.3
+8890,7/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,7/30/2019,Jul,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,47, 865 ,90.8
+8898,7/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,7/11/2019,Jul,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,61," 1,190 ",123.7
+8898,7/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,7/11/2019,Jul,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,27, 940 ,95.8
+8893,7/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,7/8/2019,Jul,Q3,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,84," 1,176 ",118.8
+8894,7/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,7/10/2019,Jul,Q3,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,91," 3,640 ",360.4
+8895,7/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,7/10/2019,Jul,Q3,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,36, 331 ,34.4
+8896,7/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,7/27/2019,Jul,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,34, 340 ,34.3
+8897,7/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,7/28/2019,Jul,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,81," 1,729 ",178.1
+8898,7/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,7/28/2019,Jul,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,25, 241 ,23.4
+8899,7/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,7/28/2019,Jul,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,12, 221 ,22.1
+8800,7/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,7/31/2019,Jul,Q3,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,23, 322 ,30.9
+8808,7/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,7/8/2019,Jul,Q3,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,76, 969 ,97.9
+8803,7/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,7/6/2019,Jul,Q3,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,55," 4,455 ",445.5
+8804,7/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,7/6/2019,Jul,Q3,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,19, 133 ,12.9
+8806,7/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,7/10/2019,Jul,Q3,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,27, 940 ,89.3
+8809,7/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,7/5/2019,Jul,Q3,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,99, 990 ,95
+8880,7/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,7/5/2019,Jul,Q3,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,10, 400 ,40
+8884,7/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,7/12/2019,Jul,Q3,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,80, 800 ,77.6
+8886,7/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,7/12/2019,Jul,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,27, 95 ,9.1
+8887,7/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,7/12/2019,Jul,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,97," 3,880 ",380.2
+8888,7/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,7/12/2019,Jul,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,42, 773 ,80.4
+8889,7/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,7/30/2019,Jul,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,24," 1,104 ",106
+8880,7/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,7/11/2019,Jul,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Clam Chowder,Soups,9.7,90, 869 ,83.4
+8888,7/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,7/8/2019,Jul,Q3,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Chocolate,Candy,12.8,28, 357 ,35.7
+8888,8/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,8/30/2019,Aug,Q3,Shipping Company C,JHELUM,JM,90900,PK,Check,Coffee,Beverages,46,28," 1,288 ",134
+8883,8/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,8/10/2019,Aug,Q3,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,57, 727 ,69.8
+8884,8/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,8/12/2019,Aug,Q3,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Green Tea,Beverages,3,23, 69 ,6.7
+8885,8/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,8/12/2019,Aug,Q3,Shipping Company B,KARACHI NORTH,KI,90900,PK,Credit Card,Coffee,Beverages,46,86," 3,956 ",399.6
+8886,8/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,8/12/2019,Aug,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,47," 1,175 ",116.3
+8887,8/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,8/12/2019,Aug,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Cajun Seasoning,Condiments,22,97," 2,134 ",221.9
+8888,8/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,8/12/2019,Aug,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,96, 883 ,86.6
+8889,8/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,8/12/2019,Aug,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,31, 109 ,10.9
+8830,8/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,8/12/2019,Aug,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,52, 156 ,16
+8838,8/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,8/12/2019,Aug,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,91," 1,638 ",158.9
+8838,8/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,8/12/2019,Aug,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Coffee,Beverages,46,14, 644 ,63.8
+8833,8/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,8/12/2019,Aug,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Green Tea,Beverages,3,44, 132 ,13.3
+8834,8/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,8/30/2019,Aug,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,97, 936 ,95.5
+8835,8/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,8/30/2019,Aug,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,80," 1,472 ",150.1
+8836,8/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,8/11/2019,Aug,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,66," 1,287 ",132.6
+8837,8/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,8/11/2019,Aug,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,32," 1,114 ",111.4
+8838,8/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,8/8/2019,Aug,Q3,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,52, 728 ,72.8
+8839,8/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,8/10/2019,Aug,Q3,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,78," 3,120 ",318.2
+8840,8/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,8/10/2019,Aug,Q3,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,54, 497 ,49.2
+8848,8/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,8/27/2019,Aug,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,55, 550 ,52.3
+8848,8/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,8/28/2019,Aug,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,60," 1,281 ",129.4
+8843,8/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,8/28/2019,Aug,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,19, 183 ,17.4
+8844,8/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,8/28/2019,Aug,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,66," 1,214 ",125.1
+8845,8/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,8/31/2019,Aug,Q3,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,42, 588 ,59.4
+8846,8/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,8/8/2019,Aug,Q3,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,72, 918 ,89.1
+8848,8/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,8/6/2019,Aug,Q3,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,32," 2,592 ",251.4
+8849,8/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,8/6/2019,Aug,Q3,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,76, 532 ,53.7
+8850,9/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,9/12/2019,Sep,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,83, 764 ,74.8
+8858,9/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,9/12/2019,Sep,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,91, 319 ,31.2
+8858,9/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,9/12/2019,Sep,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,64, 191 ,19.5
+8853,9/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,9/12/2019,Sep,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,58," 1,044 ",103.4
+8854,9/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,9/12/2019,Sep,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Coffee,Beverages,46,97," 4,462 ",464.1
+8855,9/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,9/12/2019,Sep,Q3,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Green Tea,Beverages,3,14, 42 ,4.4
+8856,9/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,9/30/2019,Sep,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,68, 656 ,64.3
+8857,9/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,9/30/2019,Sep,Q3,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,32, 589 ,58.9
+8858,9/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,9/11/2019,Sep,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,48, 936 ,94.5
+8859,9/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,9/11/2019,Sep,Q3,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,57," 1,984 ",194.4
+8860,9/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,9/8/2019,Sep,Q3,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,67, 938 ,98.5
+8868,9/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,9/10/2019,Sep,Q3,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,48," 1,920 ",188.2
+8868,9/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,9/10/2019,Sep,Q3,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,77, 708 ,72.3
+8863,9/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,9/27/2019,Sep,Q3,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,94, 940 ,97.8
+8864,9/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,9/28/2019,Sep,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,54," 1,153 ",121.1
+8865,9/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,9/28/2019,Sep,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,43, 415 ,40.3
+8866,9/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,9/28/2019,Sep,Q3,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,71," 1,306 ",134.6
+8867,9/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,10/1/2019,Oct,Q4,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,50, 700 ,67.2
+8868,9/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,9/8/2019,Sep,Q3,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,96," 1,224 ",120
+8870,9/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,9/6/2019,Sep,Q3,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,54," 4,374 ",437.4
+8878,9/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,9/6/2019,Sep,Q3,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,39, 273 ,27.3
+8873,9/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,9/10/2019,Sep,Q3,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,63," 2,192 ",230.2
+8876,9/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,9/5/2019,Sep,Q3,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,71, 710 ,73.1
+8877,9/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,9/5/2019,Sep,Q3,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,88," 3,520 ",366.1
+8888,9/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,9/12/2019,Sep,Q3,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,59, 590 ,59.6
+8888,10/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,10/8/2019,Oct,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Curry Sauce,Sauces,40,94," 3,760 ",376
+8883,10/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,10/30/2019,Oct,Q4,Shipping Company C,JHELUM,JM,90900,PK,Check,Coffee,Beverages,46,86," 3,956 ",379.8
+8884,10/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,10/10/2019,Oct,Q4,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,61, 778 ,78.6
+8885,10/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/12/2019,Oct,Q4,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Green Tea,Beverages,3,32, 96 ,9.8
+8886,10/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,10/12/2019,Oct,Q4,Shipping Company B,KARACHI NORTH,KI,90900,PK,Credit Card,Coffee,Beverages,46,62," 2,852 ",290.9
+8887,10/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/12/2019,Oct,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,60," 1,500 ",154.5
+8888,10/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/12/2019,Oct,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Cajun Seasoning,Condiments,22,51," 1,122 ",110
+8889,10/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/12/2019,Oct,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,49, 451 ,44.6
+8890,10/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,10/12/2019,Oct,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,20, 70 ,6.9
+8898,10/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,10/12/2019,Oct,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,49, 147 ,14.7
+8898,10/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,10/12/2019,Oct,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,22, 396 ,38
+8893,10/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,10/12/2019,Oct,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Coffee,Beverages,46,73," 3,358 ",339.2
+8894,10/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,10/12/2019,Oct,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Green Tea,Beverages,3,85, 254 ,24.7
+8895,10/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,10/30/2019,Oct,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,44, 425 ,44.2
+8896,10/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,10/30/2019,Oct,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,24, 442 ,42.8
+8897,10/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,10/11/2019,Oct,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,64," 1,248 ",119.8
+8898,10/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,10/11/2019,Oct,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,70," 2,436 ",246
+8899,10/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,10/8/2019,Oct,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,98," 1,372 ",138.6
+8300,10/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,10/10/2019,Oct,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,48," 1,920 ",188.2
+8308,10/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,10/10/2019,Oct,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,100, 920 ,91.1
+8308,10/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/27/2019,Oct,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,90, 900 ,87.3
+8303,10/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,10/28/2019,Oct,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,49," 1,046 ",102.5
+8304,10/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,10/28/2019,Oct,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,71, 685 ,65.8
+8305,10/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,10/28/2019,Oct,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,10, 184 ,19.1
+8306,10/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,10/31/2019,Oct,Q4,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,78," 1,092 ",112.5
+8307,10/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,10/8/2019,Oct,Q4,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,44, 561 ,53.9
+8309,10/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,10/6/2019,Oct,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,82," 6,642 ",697.4
+8380,10/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,10/6/2019,Oct,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,29, 203 ,20.3
+8388,10/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,10/10/2019,Oct,Q4,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,93," 3,236 ",313.9
+8385,10/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,10/5/2019,Oct,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,11, 110 ,11.4
+8386,10/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,10/5/2019,Oct,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,91," 3,640 ",364
+8380,10/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/12/2019,Oct,Q4,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,12, 120 ,12.4
+8388,10/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,10/12/2019,Oct,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,78, 273 ,27.3
+8383,10/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,10/12/2019,Oct,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,60," 2,400 ",228
+8384,10/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,10/12/2019,Oct,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,23, 423 ,43.6
+8385,10/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,10/30/2019,Oct,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,34," 1,564 ",158
+8386,10/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,10/11/2019,Oct,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Clam Chowder,Soups,9.7,89, 859 ,86.7
+8387,10/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,10/8/2019,Oct,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Chocolate,Candy,12.8,82," 1,046 ",103.5
+8388,10/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,10/10/2019,Oct,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,43, 548 ,52.6
+8389,11/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,11/12/2019,Nov,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Check,Cajun Seasoning,Condiments,22,96," 2,112 ",221.8
+8330,11/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,11/12/2019,Nov,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,34, 313 ,31.3
+8338,11/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,11/12/2019,Nov,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Check,Dried Plums,Dried Fruit & Nuts,3.5,42, 147 ,15.1
+8338,11/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,11/12/2019,Nov,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Check,Green Tea,Beverages,3,100, 299 ,30.5
+8333,11/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,11/12/2019,Nov,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Check,Chai,Beverages,18,42, 756 ,76.4
+8334,11/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,11/12/2019,Nov,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Check,Coffee,Beverages,46,16, 736 ,70.7
+8335,11/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,11/12/2019,Nov,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Check,Green Tea,Beverages,3,22, 66 ,6.4
+8336,11/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,11/30/2019,Nov,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,46, 444 ,45.7
+8337,11/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,11/30/2019,Nov,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,100," 1,840 ",184
+8338,11/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,11/11/2019,Nov,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,87," 1,697 ",174.7
+8339,11/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,11/11/2019,Nov,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,58," 2,018 ",205.9
+8340,11/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,11/8/2019,Nov,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,85," 1,190 ",120.2
+8348,11/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,11/10/2019,Nov,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,28," 1,120 ",110.9
+8348,11/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,11/10/2019,Nov,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,19, 175 ,17.1
+8343,11/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,11/27/2019,Nov,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,99, 990 ,103
+8344,11/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,11/28/2019,Nov,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,69," 1,473 ",153.2
+8345,11/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,11/28/2019,Nov,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,37, 357 ,33.9
+8346,11/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,11/28/2019,Nov,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,64," 1,178 ",118.9
+8347,11/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,12/1/2019,Dec,Q4,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,38, 532 ,55.3
+8348,11/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,11/8/2019,Nov,Q4,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,15, 191 ,18.6
+8350,11/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,11/6/2019,Nov,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,52," 4,212 ",412.8
+8358,11/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,11/6/2019,Nov,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,37, 259 ,25.4
+8353,11/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,11/10/2019,Nov,Q4,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,24, 835 ,80.2
+8356,11/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,11/5/2019,Nov,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,36, 360 ,37.1
+8357,11/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,11/5/2019,Nov,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,24, 960 ,96
+8368,11/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,11/12/2019,Nov,Q4,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,20, 200 ,20
+8363,11/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,11/12/2019,Nov,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,11, 39 ,3.7
+8364,11/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,11/12/2019,Nov,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,78," 3,120 ",299.5
+8365,11/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,11/12/2019,Nov,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,76," 1,398 ",144
+8366,11/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,11/30/2019,Nov,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,57," 2,622 ",272.7
+8367,11/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,11/11/2019,Nov,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Clam Chowder,Soups,9.7,14, 135 ,13
+8368,12/27/2019,27,Cust AA,MULTAN,MN,PK,Salim Kanchwala,West,12/29/2019,Dec,Q4,Shipping Company B,MULTAN,MN,90900,PK,Check,Sauce,Beverages,14,14, 196 ,19.8
+8369,12/27/2019,27,Cust AA,MULTAN,MN,PK,Salim Kanchwala,West,12/29/2019,Dec,Q4,Shipping Company B,MULTAN,MN,90900,PK,Check,Dried Plums,Dried Fruit & Nuts,3.5,70, 245 ,25.2
+8370,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/6/2019,Dec,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Pears,Dried Fruit & Nuts,30,100," 3,000 ",291
+8378,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/6/2019,Dec,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Apples,Dried Fruit & Nuts,53,27," 1,431 ",143.1
+8378,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/6/2019,Dec,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,70, 245 ,24
+8373,12/12/2019,12,Cust L,MULTAN,MN,PK,Salim Kanchwala,West,12/14/2019,Dec,Q4,Shipping Company B,MULTAN,MN,90900,PK,Credit Card,Chai,Beverages,18,57," 1,026 ",102.6
+8374,12/12/2019,12,Cust L,MULTAN,MN,PK,Salim Kanchwala,West,12/14/2019,Dec,Q4,Shipping Company B,MULTAN,MN,90900,PK,Credit Card,Coffee,Beverages,46,83," 3,818 ",374.2
+8375,12/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,12/10/2019,Dec,Q4,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,76, 699 ,67.1
+8376,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/6/2019,Dec,Q4,Shipping Company C,BAHAWALPUR,BR,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,80, 736 ,72.9
+8377,12/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,12/31/2019,Dec,Q4,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Chocolate,Candy,12.8,47, 599 ,59.3
+8378,12/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,12/5/2019,Dec,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Clam Chowder,Soups,9.7,96, 926 ,94.5
+8379,12/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,12/8/2019,Dec,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Curry Sauce,Sauces,40,32," 1,280 ",134.4
+8380,12/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,12/30/2019,Dec,Q4,Shipping Company C,JHELUM,JM,90900,PK,Check,Coffee,Beverages,46,16, 736 ,73.6
+8388,12/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,12/10/2019,Dec,Q4,Shipping Company C,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,41, 523 ,51.2
+8388,12/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/12/2019,Dec,Q4,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Green Tea,Beverages,3,41, 123 ,12.9
+8383,12/7/2019,7,Cust G,KARACHI NORTH,KI,PK,Ahmed Ali,North,12/12/2019,Dec,Q4,Shipping Company B,KARACHI NORTH,KI,90900,PK,Credit Card,Coffee,Beverages,46,41," 1,886 ",194.3
+8384,12/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/12/2019,Dec,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,94," 2,350 ",235
+8385,12/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/12/2019,Dec,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Cajun Seasoning,Condiments,22,20, 440 ,46.2
+8386,12/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/12/2019,Dec,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,13, 120 ,12.4
+8387,12/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/12/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,74, 259 ,26.9
+8388,12/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/12/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Green Tea,Beverages,3,53, 159 ,16
+8389,12/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,12/12/2019,Dec,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Chai,Beverages,18,99," 1,782 ",174.6
+8390,12/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,12/12/2019,Dec,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Coffee,Beverages,46,89," 4,094 ",388.9
+8398,12/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,12/12/2019,Dec,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Green Tea,Beverages,3,64, 191 ,19.5
+8398,12/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,12/30/2019,Dec,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Clam Chowder,Soups,9.7,98, 946 ,96.5
+8393,12/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,12/30/2019,Dec,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,86," 1,582 ",155.1
+8394,12/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,12/11/2019,Dec,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Ravioli,Pasta,19.5,20, 390 ,41
+8395,12/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,12/11/2019,Dec,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Mozzarella,Dairy Products,34.8,69," 2,401 ",240.1
+8396,12/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,12/8/2019,Dec,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Sauce,Beverages,14,68, 952 ,91.4
+8397,12/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,12/10/2019,Dec,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Curry Sauce,Sauces,40,52," 2,080 ",203.8
+8398,12/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,12/10/2019,Dec,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate Biscuits Mix,Baked Goods & Mixes,9.2,40, 368 ,38.6
+8399,12/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/27/2019,Dec,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Scones,Baked Goods & Mixes,10,100," 1,000 ",98
+8400,12/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/28/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Olive Oil,Oil,21.4,88," 1,879 ",184.1
+8408,12/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/28/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Clam Chowder,Soups,9.7,46, 444 ,42.6
+8408,12/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/28/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,93," 1,711 ",167.7
+8403,12/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,12/31/2019,Dec,Q4,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Sauce,Beverages,14,96," 1,344 ",141.1
+8404,12/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,12/8/2019,Dec,Q4,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Chocolate,Candy,12.8,12, 153 ,16.1
+8406,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/6/2019,Dec,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Marmalade,"Jams, Preserves",81,38," 3,078 ",292.4
+8407,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/6/2019,Dec,Q4,Shipping Company A,BAHAWALPUR,BR,90900,PK,Credit Card,Long Grain Rice,Grains,7,42, 294 ,29.1
+8409,12/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,12/10/2019,Dec,Q4,Shipping Company C,FAISALABAD,FD,90900,PK,Credit Card,Mozzarella,Dairy Products,34.8,100," 3,480 ",344.5
+8488,12/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,12/5/2019,Dec,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Syrup,Condiments,10,89, 890 ,87.2
+8483,12/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,12/5/2019,Dec,Q4,Shipping Company B,HYDERABAD,HD,90900,PK,Cash,Curry Sauce,Sauces,40,12, 480 ,46.6
+8487,12/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/12/2019,Dec,Q4,Shipping Company B,KARACHI CENTRAL,KC,90900,PK,Credit Card,Almonds,Dried Fruit & Nuts,10,97, 970 ,100.9
+8489,12/10/2019,10,Cust J,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/12/2019,Dec,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Credit Card,Dried Plums,Dried Fruit & Nuts,3.5,53, 186 ,17.6
+8480,12/11/2019,11,Cust K,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/12/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Curry Sauce,Sauces,40,61," 2,440 ",248.9
+8488,12/1/2019,1,Cust A,LAHORE EAST,LE,PK,Ahmed Ali,North,12/12/2019,Dec,Q4,Shipping Company C,LAHORE EAST,LE,90900,PK,Credit Card,Crab Meat,Canned Meat,18.4,45, 828 ,81.1
+8488,12/28/2019,28,Cust BB,JHELUM,JM,PK,Kamran Ahmed,South,12/30/2019,Dec,Q4,Shipping Company C,JHELUM,JM,90900,PK,Credit Card,Coffee,Beverages,46,43," 1,978 ",197.8
+8483,12/9/2019,9,Cust I,LAHORE WEST,LW,PK,Muhammad Raza,West,12/11/2019,Dec,Q4,Shipping Company A,LAHORE WEST,LW,90900,PK,Check,Clam Chowder,Soups,9.7,18, 174 ,16.5
+8484,12/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,12/8/2019,Dec,Q4,Shipping Company B,ISLAMABAD,ID,90900,PK,Credit Card,Chocolate,Candy,12.8,41, 523 ,50.7
+8485,12/8/2019,8,Cust H,FAISALABAD,FD,PK,Ahmed Ali,North,12/10/2019,Dec,Q4,Shipping Company B,FAISALABAD,FD,90900,PK,Check,Chocolate,Candy,12.8,19, 242 ,24
+8486,12/25/2019,25,Cust Y,KARACHI CENTRAL,KC,PK,Tausif Ali,East,12/27/2019,Dec,Q4,Shipping Company A,KARACHI CENTRAL,KC,90900,PK,Cash,Cajun Seasoning,Condiments,22,65," 1,430 ",138.7
+8487,12/26/2019,26,Cust Z,KARACHI SOUTH,KS,PK,Kamran Ahmed,South,12/28/2019,Dec,Q4,Shipping Company C,KARACHI SOUTH,KS,90900,PK,Credit Card,Boysenberry Spread,"Jams, Preserves",25,13, 325 ,32.2
+8488,12/29/2019,29,Cust CC,GUJRANWALA,GA,PK,Salman Shah,West,12/31/2019,Dec,Q4,Shipping Company B,GUJRANWALA,GA,90900,PK,Check,Fruit Cocktail,Fruit & Veg,39,54," 2,106 ",214.8
+8489,12/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,12/8/2019,Dec,Q4,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Dried Pears,Dried Fruit & Nuts,30,33, 990 ,95
+8430,12/6/2019,6,Cust F,ISLAMABAD,ID,PK,Shahid Raza,North,12/8/2019,Dec,Q4,Shipping Company C,ISLAMABAD,ID,90900,PK,Check,Dried Apples,Dried Fruit & Nuts,53,34," 1,802 ",185.6
+8438,12/4/2019,4,Cust D,BAHAWALPUR,BR,PK,Munir Nizar,East,12/8/2019,Dec,Q4,Shipping Company C,BAHAWALPUR,BR,90900,PK,Check,Gnocchi,Pasta,38,59," 2,242 ",226.4
+8438,12/3/2019,3,Cust C,HYDERABAD,HD,PK,Salim Kanchwala,West,12/8/2019,Dec,Q4,Shipping Company C,HYDERABAD,HD,90900,PK,Check,Green Tea,Beverages,3,24, 72 ,7.1
